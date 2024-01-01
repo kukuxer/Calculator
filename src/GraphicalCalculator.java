@@ -80,7 +80,7 @@ public class GraphicalCalculator extends JFrame {
                         if (num2 != 0) {
                             result = num1 / num2;
                         } else {
-                            textField.setText("Error");
+                            textField.setText("fuck off");
                             return;
                         }
                         break;
